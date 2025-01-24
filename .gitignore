@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+
+# Flask-specific
+instance/
+.venv/
+
+# IDE-specific
+.vscode/
+.idea/
